@@ -4,11 +4,11 @@ To landing page website for my company. This website for provides information ab
 
 The Company name is Emrld AnalytIQ
 
-
 # How it works
 - Content is managed in the primary project tracker
 - Drafts are managed in the deliverables folder
 - The landing page draft is `deliverables/landing-page-draft.html`
+- It is a single-page site (not separate pages), with these sections in order: hero, Built for two kinds of doers, Our services, How it works, Pricing, About us, Contact us
 - The top banner nav has these items, in order: Our services, Pricing, Contact us, About us, Log in, Book a conversation
     - Our services, Pricing, Contact us, About us: scroll to their matching section on the page
     - Log in: aesthetic only, non-functional — no login flow exists
